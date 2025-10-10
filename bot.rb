@@ -18,6 +18,5 @@ loop do
     end
     dir = %w[N S E W].sample
     puts dir
-    # STDERR.puts "Thinking...\nLet's go #{dir}!"
     first_tick = false
 end
